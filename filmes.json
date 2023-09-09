@@ -1,0 +1,214 @@
+[
+	{
+		"genero": "AÇÃO",
+		"cor": "#2C5C6B",
+		"filmes": [
+			{
+                "filme": "Velozes e Furiosos 10",
+                "classificacao_indicativa": 14,
+                "duracao": "2h 21min",
+                "avaliacao_critica": 3.5,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/05/16/22/53/0156803.jpg",
+                "diretor": "Louis Leterrier",
+                "data_de_lancamento": "18 de maio de 2023"
+            },
+            {
+                "filme": "Alita: Anjo de Combate",
+                "classificacao_indicativa": 14,
+                "duracao": "2h 02min",
+                "avaliacao_critica": 3.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/19/01/31/11/55/2714336.jpg",
+                "diretor": "Robert Rodriguez",
+                "data_de_lancamento": "14 de fevereiro de 2019"
+            },
+            {
+                "filme": "Vingadores: Guerra Infinita",
+                "classificacao_indicativa": 12,
+                "duracao": "2h 36min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/18/03/16/15/08/2019826.jpg",
+                "diretor": "Joe Russo, Anthony Russo",
+                "data_de_lancamento": "26 de abril de 2018"
+            },
+            {
+                "filme": "John Wick",
+                "classificacao_indicativa": 14,
+                "duracao": "2h 50min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/22/12/05/09/07/2007563.jpg",
+                "diretor": "Chad Stahelski",
+                "data_de_lancamento": "23 de março de 2023"
+            }
+		]
+	},
+	{
+		"genero": "TERROR",
+		"cor": "#7DDFD2",
+		"filmes": [
+			{
+                "filme": "Um Lugar Silencioso",
+                "classificacao_indicativa": 14,
+                "duracao": "1h 30min",
+                "avaliacao_critica": 3.0,
+                "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/18/03/01/20/26/0577579.jpg",
+                "diretor": "John Krasinski",
+                "data_de_lancamento": "5 de abril de 2018"
+            },
+            {
+                "filme": "Jogos Mortais: Jigsaw",
+                "classificacao_indicativa": 18,
+                "duracao": "1h 32min",
+                "avaliacao_critica": 3.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/17/11/17/23/57/4731159.jpg",
+                "diretor": "Michael Spierig, Peter Spierig",
+                "data_de_lancamento": "30 de novembro de 2017"
+            },
+            {
+                "filme": "A Morte do Demônio: A Ascensão",
+                "classificacao_indicativa": 18,
+                "duracao": "1h 37min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/04/14/21/50/1023913.jpg",
+                "diretor": "Lee Cronin",
+                "data_de_lancamento": "20 de abril de 2023"
+            },
+            {
+                "filme": "O Telefone Preto",
+                "classificacao_indicativa": 16,
+                "duracao": "1h 43min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/06/23/21/10/1998178.jpg",
+                "diretor": "Scott Derrickson",
+                "data_de_lancamento": "21 de julho de 2022"
+            }
+		]
+	},
+	{
+		"genero": "COMÉDIA",
+		"cor": "#ECB3CB",
+		"filmes": [
+			{
+                "filme": "Mistério em Paris",
+                "classificacao_indicativa": 14,
+                "duracao": "1h 29min",
+                "avaliacao_critica": 3.5,
+                "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/23/04/03/16/27/2188262.jpg",
+                "diretor": "Jeremy Garelick",
+                "data_de_lancamento": "31 de março de 2023"
+			},
+			{
+                "genero": "COMÉDIA",
+                "filme": "Que Horas Eu Te Pego?",
+                "classificacao_indicativa": 2,
+                "duracao": "1h 43min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/04/25/00/50/3748586.jpg",
+                "diretor": "Gene Stupnitsky",
+                "data_de_lancamento": "22 de junho de 2023"
+			},
+			{
+                "filme": "A Prosposta",
+                "classificacao_indicativa": 12,
+                "duracao": "1h 48min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/29/75/19874043.jpg",
+                "diretor": "Anne Fletcher",
+                "data_de_lancamento": "10 de julho de 2009"
+			},
+			{
+                "filme": "O Homem Perfeito",
+                "classificacao_indicativa": 14,
+                "duracao": "1h 30min",
+                "avaliacao_critica": 1.5,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/18/08/16/16/22/0326724.jpg",
+                "diretor": "Marcus Baldini",
+                "data_de_lancamento": "27 de setembro de 2018"
+			}
+		]
+	},
+	{
+		"genero": "DRAMA",
+		"cor": "#F22688",
+		"filmes": [
+			{
+                "filme": "O Amor Mandou Mensagem",
+                "classificacao_indicativa": 12,
+                "duracao": "1h 45min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/23/02/14/18/56/2616111.png",
+                "diretor": "Jim Strouse",
+                "data_de_lancamento": "11 de maio de 2023"
+			},
+			{
+                "filme": "Minha Culpa",
+                "classificacao_indicativa": 16,
+                "duracao": "1h 57min",
+                "avaliacao_critica": 3.5,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/05/10/18/46/3247366.png",
+                "diretor": "Domingo González",
+                "data_de_lancamento": "8 de junho de 2023"
+			},
+			{
+                "filme": "A Baleia",
+                "classificacao_indicativa": 16,
+                "duracao": "1h 57min",
+                "avaliacao_critica": 3.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/01/12/16/24/2787954.jpg",
+                "diretor": "Darren Aronofsky",
+                "data_de_lancamento": "26 de fevereiro de 2023"
+			},
+			{
+                "filme": "Continência do Amor",
+                "classificacao_indicativa": 14,
+                "duracao": "2h 02min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/08/09/21/09/3949781.jpg",
+                "diretor": "Elizabeth Allen Rosenbaum",
+                "data_de_lancamento": "29 de julho de 2022"
+			}
+		]
+	},
+	{
+		"genero": "FANTASIA",
+		"cor": "#00968D",
+		"filmes": [
+			{
+                "filme": "A Pequena Sereia",
+                "classificacao_indicativa": 10,
+                "duracao": "2h 16min",
+                "avaliacao_critica": 3.5,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/23/03/13/13/40/3177161.jpg",
+                "diretor": "Rob Marshall",
+                "data_de_lancamento": "25 de maio de 2023"
+			},
+			{
+                "filme": "Alice no País das Maravilhas",
+                "classificacao_indicativa": 10,
+                "duracao": "1h 48min",
+                "avaliacao_critica": 4.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/31/00/19874174.jpg",
+                "diretor": "Tim Burton",
+                "data_de_lancamento": "23 de abril de 2010"
+			},
+			{
+                "filme": "Oz, Mágico e Poderoso",
+                "classificacao_indicativa": 10,
+                "duracao": "2h 07min",
+                "avaliacao_critica": 3.0,
+                "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/76/41/20344671.jpg",
+                "diretor": "Sam Raimi",
+                "data_de_lancamento": "8 de março de 2013"
+			},
+			{
+                "filme": "As Crônicas de Nárnia - O Leão, a Feiticeira e o Guarda-Roupa",
+                "classificacao_indicativa": 10,
+                "duracao": "2h 20min",
+                "avaliacao_critica": 4.5,
+                "capa": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/90/59/44/20103781.jpg",
+                "diretor": "Andrew Adamson",
+                "data_de_lancamento": "9 de dezembro de 2005"
+			}
+		]
+	}
+]
+	
